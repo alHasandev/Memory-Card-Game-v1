@@ -1,0 +1,22 @@
+{
+  "name": "Memory Card Game",
+  "short_name": "MCG",
+  "icons": [
+    {
+      "src": "images/game-console-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "images/game-console-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2ecc71",
+  "background_color": "#FFFFFF"
+}
